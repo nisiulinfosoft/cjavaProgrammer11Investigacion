@@ -1,0 +1,5 @@
+Según lo comentado en clase y apoyándose del material publicado en la plataforma como por otros medios realice un análisis y explique los siguientes conceptos de Java.
+1. Ventajas y desventajas de emplear Java interface o Abstract Class
+2. Diferencias entre ArrayList y HashMap
+3. Mejoras en Stream de java 12
+4. Ventajas y utilidades del patrón DAO, Singleton y builder
